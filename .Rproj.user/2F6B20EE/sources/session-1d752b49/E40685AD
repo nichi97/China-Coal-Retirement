@@ -1,0 +1,28 @@
+{
+    "id": "E40685AD",
+    "path": "C:/Users/chiga/Projects/coal_retirement_gem/scripts/2_static_data_exploration.R",
+    "project_path": "scripts/2_static_data_exploration.R",
+    "type": "r_source",
+    "hash": "988846306",
+    "contents": "",
+    "dirty": false,
+    "created": 1674882485199.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "74,0",
+        "scrollLine": "52",
+        "marks": "<:78,79\n>:78,79"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675027981,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675027981938,
+    "read_only": false,
+    "read_only_alternatives": []
+}

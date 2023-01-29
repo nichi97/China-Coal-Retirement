@@ -1,0 +1,28 @@
+{
+    "id": "44C63F22",
+    "path": "C:/Users/chiga/Projects/coal_retirement_gem/scripts/1_data_wrangle.R",
+    "project_path": "scripts/1_data_wrangle.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1674887116793.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "44,58",
+        "scrollLine": "23",
+        "marks": "<:0,0\n>:102,-1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675026401,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675026401040,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,13 @@
+# 1_data_wrangle.R
+# This file does a very simple job -- clean the data. In this specific case, 
+# the data set is very easy to clean. All I did was to filter so that I have 
+# a data set that is left with only retired plants in China 
+
+library(tidyverse)
+
+coal_units <- read_csv("./raw_data/coal_units.csv")
+retired_china_units <- coal_units %>% 
+  filter(Country == "China") %>% 
+  filter(!is.na(RETIRED))
+
+write_csv(retired_china_units, "./processed_data/retired_china_units.csv")
