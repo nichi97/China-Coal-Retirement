@@ -3,7 +3,7 @@
     "path": "C:/Users/chiga/Projects/coal_retirement_gem/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "944179679",
     "contents": "",
     "dirty": false,
     "created": 1674881442440.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "47,44",
-        "scrollLine": "27",
+        "cursorPosition": "48,23",
+        "scrollLine": "32",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "0",
@@ -22,11 +22,11 @@
         "marks": "<:14,60\n>:14,60"
     },
     "folds": "",
-    "lastKnownWriteTime": 1675028294,
+    "lastKnownWriteTime": 1675029093,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675028294896,
+    "last_content_update": 1675029093996,
     "read_only": false,
     "read_only_alternatives": []
 }

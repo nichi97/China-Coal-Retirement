@@ -46,6 +46,7 @@ Coal units that are retired as of 2023.
 -   Exploratory analysis -- looking into years with NAs. Data seems pretty completed. Only ~90 units are currently operating with no operation start dates
 -   Keep track of created data sets in README.md now.
 -   Completed retirement rate over time plot
+-   Pushed to GitHub :) 
 
 
 
